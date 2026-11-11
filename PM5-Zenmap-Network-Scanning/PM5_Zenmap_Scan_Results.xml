@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.64.0/24" profile_name="Ping scan" scanner="nmap" start="1794421434" startstr="Wed Nov 11 19:23:54 2026" version="7.99" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.99 ( https://nmap.org ) at 2026-11-11 19:23 +0100
+Nmap scan report for 192.168.64.1
+Host is up (0.00027s latency).
+MAC Address: 3E:06:30:C3:35:64 (Unknown)
+Nmap scan report for 192.168.64.7
+Host is up (0.0017s latency).
+MAC Address: E6:C5:69:11:20:F0 (Unknown)
+Nmap scan report for 192.168.64.2
+Host is up.
+Nmap done: 256 IP addresses (3 hosts up) scanned in 3.01 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.64.1" vendor="" addrtype="ipv4"></address><address addr="3E:06:30:C3:35:64" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.64.7" vendor="" addrtype="ipv4"></address><address addr="E6:C5:69:11:20:F0" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.64.2" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1794421437" timestr="Wed Nov 11 19:23:57 2026"></finished><hosts up="3" down="253" total="256"></hosts></runstats></nmaprun>
